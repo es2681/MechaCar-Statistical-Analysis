@@ -25,3 +25,4 @@ Summary statistics for suspension coils by production lot
 ![lot_summary](https://user-images.githubusercontent.com/94587007/161320779-f4731403-bda7-47e3-b8a9-393be42bd15e.png)
 
 
+### T-Tests on Suspension Coils
