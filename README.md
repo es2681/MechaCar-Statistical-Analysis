@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Overview
-AutosRUs is a car manufacturer and is prototyping a new vehicle, the MechaCar. AutosRUS has developed 50 prototypes of the Mechacar using multiple design specifications for vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance. These variables were compared to the miles per gallon (mpg) of each vehicle to determine whether these variables have any statistically significant impacts on mileage. 
+AutosRUs is a car manufacturer and is prototyping a new vehicle, the MechaCar. AutosRUS has developed 50 prototypes of the MechaCar using multiple design specifications for vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance. These variables were compared to the fuel efficiency (mpg) of each vehicle to determine whether these variables have any statistically significant impacts on mileage. 
 
 Additionally, suspension coils used in the MechaCar protypes are manufactured in three production lots. An analysis of the weight capacities of suspension coils was performed to determine whether there is consistency between the production lots. 
 
